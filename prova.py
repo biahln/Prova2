@@ -1,3 +1,7 @@
+#Beatriz Helena Dos Santos
+#21805492
+
+
 from flask import Flask, render_template,request
 from flaskext.mysql import MySQL
 from bd import *

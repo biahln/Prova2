@@ -6,3 +6,4 @@ def get_idcadastro(cursor, url, codigo):
     return idcadastro
 
 
+
